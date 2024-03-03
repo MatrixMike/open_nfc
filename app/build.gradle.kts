@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "group.artvuu.open_nfc"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "group.artvuu.open_nfc"
